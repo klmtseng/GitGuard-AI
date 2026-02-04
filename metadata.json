@@ -1,0 +1,5 @@
+{
+  "name": "GitGuard AI - Repo Risk Assessment",
+  "description": "A Gemini-powered GitHub repository risk assessment tool. Simulates a Chrome Extension workflow to analyze code quality, security, and maintenance status.",
+  "requestFramePermissions": []
+}
